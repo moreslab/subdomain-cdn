@@ -3,10 +3,10 @@
 	Plugin Name: Subdomain CDN Image 
 	Text Domain: subdomain-cdn-image
 	Description: subdomain-cdn-image
-  Version:     1.0
-  Author:      moreslab
-  Plugin URI:  https://github.com/moreslab/subdomain-cdn
-  Author URI:  https://github.com/moreslab/
+	Version:     1.0
+	Author:      moreslab
+	Plugin URI:  https://github.com/moreslab/subdomain-cdn
+	Author URI:  https://github.com/moreslab/
 	License: GPLv2 or later
 */
 
