@@ -23,7 +23,7 @@ function moreslab_to_cdn($src) {
 
 function moreslab_cdn_get_attachment_image_src($image, $attachment_id, $size, $icon) {
     if(!is_admin()) {
-        if(!image) {
+        if(!$image) {
             return false;
         }
 
